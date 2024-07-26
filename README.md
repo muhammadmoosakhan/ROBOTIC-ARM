@@ -16,14 +16,13 @@ Before you begin, ensure you have met the following requirements:
 Arduino IDE (version X.X.X)
 
 
-Usage
+-------Usage--------
 Controlling Fingers
 Each finger has its own control code located in the fingers directory. The codes are written in Arduino IDE language (C/C++) and need to be uploaded to the Arduino Mega board.
 
 Index Finger: index_finger.ino
 Middle Finger: middle_finger.ino
-Ring Finger: ring_finger.ino
-Little Finger: little_finger.ino
+RingPinky Finger: ring_finger.ino
 Thumb: thumb.ino
 Thumb rotation: thumbrotation.ino
 
